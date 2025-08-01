@@ -137,7 +137,7 @@ moodtrackerapp/
 ---
 
 ### 🔁 1. Clone the Repository
-git clone https://github.com/bhavyadmn05/mood-tracker-app/
+git clone https://github.com/aanshib/Mood-Tracker/
 cd moodtrackerapp
 
 🔐 2. Configure Environment Variables
